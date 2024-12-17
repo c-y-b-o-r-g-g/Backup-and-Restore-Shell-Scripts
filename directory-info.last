@@ -1,0 +1,28 @@
+./origin:
+total 0
+-rwxrwx--- 1 root vboxsf 0 Oct 23 09:24 a
+-rwxrwx--- 1 root vboxsf 0 Oct 23 09:24 b
+-rwxrwx--- 1 root vboxsf 0 Oct 23 09:24 c
+-rwxrwx--- 1 root vboxsf 0 Oct 23 09:25 d
+-rwxrwx--- 1 root vboxsf 0 Oct 23 09:25 e
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 f1.txt
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 f2.txt
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 f3.txt
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 f4.txt
+drwxrwx--- 1 root vboxsf 0 Oct 14 22:48 test1
+drwxrwx--- 1 root vboxsf 0 Oct 14 22:48 test2
+
+./origin/test1:
+total 0
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 file1.txt
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 file2.txt
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 file3.txt
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 file4.txt
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 file5.txt
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 file6.txt
+
+./origin/test2:
+total 0
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 file1.txt
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 file2.txt
+-rwxrwx--- 1 root vboxsf 0 Oct 12 20:31 file3.txt
